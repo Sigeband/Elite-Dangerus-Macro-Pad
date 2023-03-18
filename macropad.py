@@ -58,7 +58,7 @@ while True:
         keyboard.release(Keycode.C)
         
     if cur_state1 != prev_state1:
-        print("pressed")
+        print("switch1 pressed")
         keyboard.press(Keycode.J)
         time.sleep(0.5)
         keyboard.release(Keycode.J)
