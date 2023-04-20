@@ -18,9 +18,11 @@ For those who are looking for a way to enhance their immersion in space games, l
 1x Raspery pi pico
 8x 16mm momentary push buttons
 6x toggle switches
-1x 3D printed case (Pla is fine)
+1x 3D printed case 
 2x M3x20 Screws+ Washers
 ```
+
+3D modell: https://www.printables.com/de/model/458058-clip-on-button-panel
 
 
 ## Installing Circuit Python
