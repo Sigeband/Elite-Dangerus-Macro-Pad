@@ -187,7 +187,7 @@ while True:
         keyboard.release(Keycode.L)
         
     if btn13.value:
-        print("button7 pressed")abcdefghijklmn
+        print("button7 pressed")
         keyboard.press(Keycode.M)
         time.sleep(0.3)
         keyboard.release(Keycode.M)
