@@ -1,5 +1,5 @@
 # Macro-Pad
-Keyboard add-on for a button panel.
+Control panel add-on for a keyboard.
 This Project is Still WIP! Scroll Down for more information!
 
 
