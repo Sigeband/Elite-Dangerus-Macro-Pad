@@ -110,9 +110,9 @@ while True:
     
     if btn1.value:
         print("button1 pressed")
-        keyboard.press(Keycode.A)
+        keyboard.press(Keycode.V)
         time.sleep(0.3)
-        keyboard.release(Keycode.A)
+        keyboard.release(Keycode.V)
         
     if btn2.value:
         print("button2 pressed")
@@ -122,23 +122,23 @@ while True:
  
     if cur_state3 != prev_state3:
         print("switch3 pressed")
-        keyboard.press(Keycode.C)
+        keyboard.press(Keycode.B)
         time.sleep(0.3)
-        keyboard.release(Keycode.C)
+        keyboard.release(Keycode.B)
         prev_state3 = switch3.value
         
     if cur_state4 != prev_state4:
         print("switch4 pressed")
-        keyboard.press(Keycode.D)
+        keyboard.press(Keycode.L)
         time.sleep(0.3)
-        keyboard.release(Keycode.D)
+        keyboard.release(Keycode.L)
         prev_state4 = switch4.value
         
     if cur_state5 != prev_state5:
         print("switch5 pressed")
-        keyboard.press(Keycode.E)
+        keyboard.press(Keycode.U)
         time.sleep(0.3)
-        keyboard.release(Keycode.E)
+        keyboard.release(Keycode.U)
         prev_state5 = switch5.value
         
     if btn6.value:
@@ -169,34 +169,34 @@ while True:
         
     if cur_state10 != prev_state10:
         print("switch10 pressed")
-        keyboard.press(Keycode.J)
+        keyboard.press(Keycode.K)
         time.sleep(0.3)
-        keyboard.release(Keycode.J)
+        keyboard.release(Keycode.K)
         prev_state10 = switch10.value
         
     if btn11.value:
         print("button7 pressed")
-        keyboard.press(Keycode.K)
+        keyboard.press(Keycode.J)
         time.sleep(0.3)
-        keyboard.release(Keycode.K)
+        keyboard.release(Keycode.J)
         
     if btn12.value:
         print("button7 pressed")
-        keyboard.press(Keycode.L)
+        keyboard.press(Keycode.I)
         time.sleep(0.3)
-        keyboard.release(Keycode.L)
+        keyboard.release(Keycode.I)
         
     if btn13.value:
         print("button7 pressed")
-        keyboard.press(Keycode.M)
+        keyboard.press(Keycode.X)
         time.sleep(0.3)
-        keyboard.release(Keycode.M)
+        keyboard.release(Keycode.X)
         
     if btn14.value:
         print("button7 pressed")
-        keyboard.press(Keycode.N)
+        keyboard.press(Keycode.Ö)
         time.sleep(0.3)
-        keyboard.release(Keycode.N)
+        keyboard.release(Keycode.Ö)
         
     
 #time.sleep(0.1)
